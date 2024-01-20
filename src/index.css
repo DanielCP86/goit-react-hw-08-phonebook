@@ -13,3 +13,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bodyContainer {
+  border-width: 1px;
+  border-color: lightseagreen;
+  padding: 15px;
+}
+
+form {
+  width: 320px;
+  border-width: 1px;
+  margin-bottom: 15px;
+  padding: 15px;
+}
